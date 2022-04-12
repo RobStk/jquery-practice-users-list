@@ -1,0 +1,14 @@
+{
+  "name": "users-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "json-server --watch database/database.json"
+  },
+  "author": "RobStk",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
