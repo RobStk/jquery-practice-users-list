@@ -9,6 +9,14 @@ Zadanie treningowe pochodzące z <https://github.com/kartofelek007/zadania/tree/
 - użycie jQuery
 - responsywność bez implementacji dodatkowych narzędzi
 
+## Zastosowane technologie i narzędzia:
+
+- HTML + CSS + JavaScript
+- [jQuery](<https://jquery.com/>)
+- [Node.js](<https://nodejs.org/>)
+- [json-server](<https://github.com/typicode/json-server>)
+- [http-server](<https://www.npmjs.com/package/http-server>)
+
 ## Czego potrzebuję, by odpalić kod?
 
 Do uruchomienia kodu niezbędne jest posiadanie zainstalowanego środowiska [node.js](https://nodejs.org/en/) oraz następujące pakiety:
@@ -16,9 +24,13 @@ Do uruchomienia kodu niezbędne jest posiadanie zainstalowanego środowiska [nod
 - json-server  
 - serwer lokalny (np. http-server) 
 
------------------------------
+<br>
+
+-----------------------------  
 
 **Oryginalna treść zadania:**  
+
+<br>
 
 > ### Zadania - lista użytkowników
 > ==========================
